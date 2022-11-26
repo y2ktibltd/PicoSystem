@@ -1,1 +1,0 @@
-/run/media/tom/CIRCUITPY/code.py
