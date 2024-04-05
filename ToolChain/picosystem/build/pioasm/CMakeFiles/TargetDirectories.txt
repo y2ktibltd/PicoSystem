@@ -1,0 +1,3 @@
+/home/tom/Coding/PicoSystem/picosystem/build/pioasm/CMakeFiles/pioasm.dir
+/home/tom/Coding/PicoSystem/picosystem/build/pioasm/CMakeFiles/edit_cache.dir
+/home/tom/Coding/PicoSystem/picosystem/build/pioasm/CMakeFiles/rebuild_cache.dir
